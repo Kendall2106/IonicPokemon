@@ -48,6 +48,7 @@ export class TeamPage implements OnInit {
     });
     await modal.present();
   }
+  //mm
 
   async presentActionSheet(character: Pokemon) {
     const actionSheet = await this.actionSheetCtrl.create({
