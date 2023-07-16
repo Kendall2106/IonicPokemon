@@ -2,8 +2,14 @@
 
 Demo en IONIC, usando un API de Pokemon
 
+https://kendall2106.github.io/IonicPokemon/
+
 Comandos:
 ionic serve
+
+subir angular:
+comentar en el index - <!-- <base href="/" />-->
+agregar en el app-routing - useHash:true
 
 Imagenes:
 
